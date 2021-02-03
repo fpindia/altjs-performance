@@ -1,2 +1,2 @@
-# purescript-performance
-Compare Purescript performance with other FP compile-to-js language implementations
+# altjs-performance
+Compare and optimise the performance of various FP compile-to-js language implementations
